@@ -1,1 +1,1 @@
-This is a game I had to make based on https://arato.inf.unideb.hu/jeszenszky.peter/download/mestint/jatekok.pdf.
+This is a game I had to make based on https://arato.inf.unideb.hu/jeszenszky.peter/download/mestint/jatekok.pdf. (2.16)
